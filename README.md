@@ -13,7 +13,7 @@ terdapat data Processing dengan mengambil dataset kemudian dijadikan edge, kontr
 -   templates/
     -   index.html --> Berisi template website.
 -   app.py --> Berisi konfigurasi route dan proses prediksi model untuk API.
--   elephant_lion_class_model.h5 --> Model Image Classification CNN yang sudah di-training.
+-   nipis_sirih_class_model.h5 --> Model Image Classification CNN yang sudah di-training.
 -   requirements.txt --> Berisi daftar dependency/package Python yang diperlukan untuk menjalankan API dan model Image Classification CNN.
 
 #
